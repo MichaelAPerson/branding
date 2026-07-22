@@ -2,7 +2,7 @@
 |                                     JS                                               |
 |______________________________________________________________________________________|
 
-fetch("https://raw.githubusercontent.com/MichaelAPerson/branding/main/config.json")
+fetch("https://raw.githubusercontent.com/MichaelAPerson/branding/main/crediconfig.json")
   .then(res => res.json())
   .then(data => {
     document.getElementById("madeBy").innerHTML =
