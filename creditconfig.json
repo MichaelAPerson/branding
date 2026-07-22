@@ -1,6 +1,12 @@
 {
-  "front-developer": "Website Frontend by Fischer Solutions",
-  "fischer-website": "https://fischersolutions.ct.ws/"
-  "back-developer": "Website Backend by TS Solutions",
-  "ts-website": "https://tssolutions.dev/"
+  "frontend": {
+    "company": "Fischer Solutions",
+    "credit": "Website Frontend Development",
+    "website": "https://fischersolutions.ct.ws/"
+  },
+  "backend": {
+    "company": "TS Solutions",
+    "credit": "Website Backend Development",
+    "website": "https://tssolutions.dev/"
+  }
 }
