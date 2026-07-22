@@ -1,4 +1,6 @@
 {
-  "developer": "Website Designed & Developed by Fischer Solutions",
-  "website": "https://fischersolutions.ct.ws/"
+  "front-developer": "Website Frontend by Fischer Solutions",
+  "fischer-website": "https://fischersolutions.ct.ws/"
+  "back-developer": "Website Backend by TS Solutions",
+  "ts-website": "https://tssolutions.dev/"
 }
